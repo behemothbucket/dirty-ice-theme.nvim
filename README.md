@@ -1,4 +1,4 @@
-# gruber-darker-theme.nvim
+# dirty-ice-theme.nvim
 Siberia inspired
 
 ## Screenshots

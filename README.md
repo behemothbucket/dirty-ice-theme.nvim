@@ -3,7 +3,7 @@ Siberia inspired
 
 ## Screenshots
 
-### JavaScript (Windows Teminal, without Bold font)
+Need write some "good" code before...
 
 Font: Iosevka
 

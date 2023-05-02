@@ -3,7 +3,9 @@ Siberia inspired
 
 ## Screenshots
 
-Need write some "good" code before...
+### JavsScript
+
+![JavaScript](https://i.ibb.co/JqXHd1k/image.png)
 
 Font: Iosevka
 
@@ -12,10 +14,10 @@ Font: Iosevka
 Packer:
 
 ```lua
-use {
+  use {
     'behemothbucket/dirty-ice-theme.nvim',
     config = function()
-        require('dirty-ice').setup()
+      require('dirty-ice').setup()
     end
-}
+  }
 ```

@@ -104,8 +104,9 @@ local highlight_groups = {
   ["@punctuation.bracket"]   = { link = "Normal" },
   ["@conditional"]           = { link = "Conditional" },
   ["@exception"]             = { link = "Exception" },
-  ["@string.escape"]         = { fg = p.red },
-  ["@string.regex"]          = { link = "@string.escape" },
+  ["@string.escape"]         = { fg = p.main },
+  ["@string.regex"]          = { fg = p.red },
+  ["@regex.delimeter"]       = { link = "@string.regex" },
   -- Diff
   DiffAdd                    = { fg = "NONE", bg = p.green },
   DiffAdded                  = { fg = p.green, bg = "NONE" },

@@ -6,9 +6,9 @@ Siberia inspired
 
 ### JavsScript
 
-![JavaScript](https://i.ibb.co/JqXHd1k/image.png
+![JavaScript](https://i.ibb.co/JqXHd1k/image.png)
 
-*Font:* Iosevka
+**Font:** Iosevka
 
 ## Installation
 

@@ -4,7 +4,7 @@ Siberia inspired
 
 ## Screenshots
 
-### JavsScript
+### JavasScript
 
 ![JavaScript](https://i.ibb.co/JqXHd1k/image.png)
 
